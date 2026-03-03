@@ -1,2 +1,2 @@
 # korlearn
-KOR-Learn : NestJS + MongoDB + TypeORM
+KOR-Learn : Express + MongoDB + Mongoose
